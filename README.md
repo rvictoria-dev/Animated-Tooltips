@@ -6,6 +6,16 @@ Tooltips are one of those things you don't notice when they're done right, but i
 
 ---
 
+### 🌟 Features
+
+- 5 tooltip variants: dark, light, accent, outline and rich
+- 4 positions: top, bottom, left and right
+- Smooth fade animaton on hover
+- Single reusable component controlled by props
+- Real usage example with a toolbar
+
+---
+
 ### 📁 Project structure
 
 ```
