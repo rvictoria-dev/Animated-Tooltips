@@ -35,7 +35,11 @@ animated-tooltips/
 
 ### 💡 What I Learned
 
-
+- Building one reusable component and using props to control everything felt like a real shift in how I think about writing code
+- React handles the state, CSS handles the animation. Once that clicked, everything made more sense
+- Dynamic positioning based on a prop was a fun challenge that pushed me to think more flexibly
+- Splitting files into their own components kept the project clean and easy to navigate
+- The tooltip arrow was the most interesting part. A ``<span>`` with zero size shaped into a triangle using only CSS borders, one of those small tricks that stick with you
 
 ---
 
