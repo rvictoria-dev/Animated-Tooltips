@@ -27,7 +27,9 @@ animated-tooltips/
 
 ### 🛠️ Built With
 
-
+- **JavaScript**
+- **JSX**
+- **CSS**
 
 ---
 
