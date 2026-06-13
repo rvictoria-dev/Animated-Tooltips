@@ -40,4 +40,3 @@ animated-tooltips/
 ### 🎬 Preview
 
 https://github.com/user-attachments/assets/ed94d1dc-4feb-4448-952d-7b5484bb4e8d
->>>>>>> 74d320d6be6149aa9b74ed39bec05c23ab616feb
